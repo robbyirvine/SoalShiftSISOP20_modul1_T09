@@ -89,3 +89,9 @@ echo $password > $file.txt
 ```tr -dc 'a-zA-Z').txt``` dengan nama file menggunakan alphabet huruf kapital dan kecil serta file berbentuk txt
 
 ```echo $password > $file.txt``` selanjutnya adalah password acak tadi akan disimpan kedalam file.txt 
+
+
+
+Keluhan:
+- masih belum terlalu familiar dengan bahasa yang digunakan. hal ini mengakibatkan memakan waktu yg lama untuk pengerjaan
+- terkadang ada error saat dicoba ke laptop teman satu tim
